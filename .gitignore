@@ -37,4 +37,3 @@
 /.env
 /coverage
 /config/application.yml
-/config/credentials.yml.enc
