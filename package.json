@@ -12,7 +12,8 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "watch": "gulp-watch",
     "compile-scss": "gulp compile-scss",
-    "build": "gulp style"
+    "build": "gulp style",
+    "build:css": "gulp style"
   },
   "repository": {
     "type": "git",
