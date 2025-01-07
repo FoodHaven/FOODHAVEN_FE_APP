@@ -7,12 +7,12 @@
     "example": "root"
   },
   "scripts": {
-    "build": "gulp style",
     "open-app": "gulp open-app",
     "start": "npm run open-app",
     "test": "echo \"Error: no test specified\" && exit 1",
     "watch": "gulp-watch",
-    "compile-scss": "gulp compile-scss"
+    "compile-scss": "gulp compile-scss",
+    "build": "gulp style"
   },
   "repository": {
     "type": "git",
